@@ -1,4 +1,4 @@
 ### this is a website
 
 #### these are my talks
-[talks](talks)
+[talks](https://mmargenot.github.io/talks)
