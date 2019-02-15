@@ -25,3 +25,7 @@ Finding alpha is a constant search in algorithmic trading. New alpha factors are
 
 Factor modeling is a common topic in quantitative finance. “Smart Beta” ETFs and similar financial products abound, providing a wealth of options to investors. Factor portfolios are constructed by ranking stocks with a combination of fundamental factors and price-based signals. The resulting factors can be used for many purposes, from cross-sectional equity models to risk and performance attribution. In this talk, we discuss what factor modeling is and how to make use of it in a typical quant workflow.
 
+## [Introduction to Statistical Arbitrage](https://www.youtube.com/watch?v=g-qvFjvyqcs)
+[Quantopian](https://www.quantopian.com) Meetup, Santa Clara
+
+In algorithmic trading, information is king. You can tease out an edge to trade on even by using only the most basic properties of time series. In this lecture, we will cover the statistics that ground the trading logic when conducting pairs trades and discuss how to find pairs.
