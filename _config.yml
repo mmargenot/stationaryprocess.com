@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Max Margenot"
-  avatar           : "/images/headshot.jpg" 
+  avatar           : "assets/images/headshot.jpg" 
   bio              : "I like statistics."
   location         : "Somerville"
   email            :
