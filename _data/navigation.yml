@@ -1,0 +1,8 @@
+main:
+  - title: "blog"
+    url: /blog/
+  - title: "speaking"
+    url: /speaking/
+  - title: "about"
+    url: /about/
+
