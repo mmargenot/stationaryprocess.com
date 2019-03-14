@@ -112,9 +112,9 @@ author:
   location         : "Somerville"
   email            :
   links:
-    - label: "max.margenot@gmail.com"
+    - label: "max@margenot.email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:max.margenot@gmail.com
+      url: mailto:max@margenot.email
     - label: "clean_utensils"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/clean_utensils"
