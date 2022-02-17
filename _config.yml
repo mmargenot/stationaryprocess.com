@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "A Stationary Process"
+title                    : "a stationary process"
 title_separator          : "-"
 name                     : "Max Margenot"
-description              : "Let's go on an adventure."
+description              : "let's go on an adventure"
 url                      : https://mmargenot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : mmargenot/mmargenot.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,19 +109,19 @@ author:
   name             : "Max Margenot"
   avatar           : "assets/images/headshot.jpg" 
   bio              : "I like statistics."
-  location         : "Somerville"
+  location         : "Boston"
   email            :
   links:
-    - label: "max@margenot.email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:max@margenot.email
-    - label: "clean_utensils"
+      url: mailto:max.margenot@gmail.com
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/clean_utensils"
-    - label: "mmargenot"
+    - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmargenot"
-    - label: "mmargenot"
+    - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/mmargenot"
 
